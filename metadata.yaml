@@ -1,0 +1,25 @@
+_repo: The-Crimson-West_65382
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Philip, Alex
+    aliases:
+    - Philip, Alexander, Novelist
+    - Philip, Alex.
+    gutenberg_agent_id: '53312'
+    url: http://www.gutenberg.org/2009/agents/53312
+description: ''
+gutenberg_issued: '2021-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British Columbia -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Crimson West
+url: http://www.gutenberg.org/ebooks/65382
